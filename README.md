@@ -5,7 +5,7 @@ Desenvolvido em **Java** que utiliza lógica de busca e persistência de dados p
 ---
 
 ## 🛠️ Dsenvolvedores
-   - Guilherme
+   - Cid Guilherme Rodrigues Velozo Pimentel - 01867957
    - Rodolpho Dantas Gouveia - 01713943
 
 ---
